@@ -346,12 +346,12 @@ void CMOEAD::exec_emo(int run)
 	{
 		evol_population();
 		accumulator += nfes - bef ;
-                if(accumulator >= 0.5*(max_nfes)  )
-                {
-                   accumulator -= 0.5*(max_nfes);
-                   save_pos(filename1);
-                   save_front(filename2);
-                }
+               // if(accumulator >= 0.5*(max_nfes)  )
+               // {
+               //    accumulator -= 0.5*(max_nfes);
+               //    save_pos(filename1);
+               //    save_front(filename2);
+               // }
                 bef=nfes;
 
 		gen++;
