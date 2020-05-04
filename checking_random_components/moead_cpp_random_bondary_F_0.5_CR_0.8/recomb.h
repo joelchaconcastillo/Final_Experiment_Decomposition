@@ -239,7 +239,7 @@ void diff_evo_xoverA(CIndividual &ind0, CIndividual &ind1, CIndividual &ind2, CI
 	/*Loop over no of variables*/
 	int idx_rnd = int(rnd_uni(&rnd_uni_init)*nvar);
 
-	double CR   =  (rnd_uni(&rnd_uni_init)<0.5)?0.2:1.0;
+	double CR   =  0.8;// (rnd_uni(&rnd_uni_init)<0.5)?0.2:1.0;
 	for(int n=0;n<nvar;n++)
 	{
 	  double rnd = rnd_uni(&rnd_uni_init);
@@ -250,12 +250,12 @@ void diff_evo_xoverA(CIndividual &ind0, CIndividual &ind1, CIndividual &ind2, CI
 	
 	  if(child.x_var[n]<vlowBound[n]){
 		  double rnd = rnd_uni(&rnd_uni_init);
-		  child.x_var[n] = lowBound + rnd*(ind0.x_var[n] - lowBound);
+		  child.x_var[n] = vlowBound[n] + rnd*(ind0.x_var[n] - vlowBound[n]);
 		  //child.x_var[n] = ind0.x_var[n];
 	  }
 	  if(child.x_var[n]>vuppBound[n]){ 
 		  double rnd = rnd_uni(&rnd_uni_init);
-		  child.x_var[n] = uppBound - rnd*(uppBound - ind0.x_var[n]);
+		  child.x_var[n] = vuppBound[n] - rnd*(vuppBound[n] - ind0.x_var[n]);
 		  //child.x_var[n] = ind0.x_var[n];
 	  }
 	  if(child.x_var[n]<vlowBound[n]) child.x_var[n] = vlowBound[n];
