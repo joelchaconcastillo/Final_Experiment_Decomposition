@@ -15,8 +15,8 @@ my $PathAlgorithm = $Path;
 #for(my $Df=0.1; $Df <= 0.9; $Df+=0.2)
 #{
 my @Instance = ("DTLZ1", "DTLZ2", "DTLZ3", "DTLZ4", "DTLZ5", "DTLZ6", "DTLZ7");
-my $Di = 0.0;
-my $Df = 0.0;
+my $Di = 0.4;
+my $Df = 0.5;
 my $prob = 0.9;
 my $neighboursize = 100;
 my $pops=100;

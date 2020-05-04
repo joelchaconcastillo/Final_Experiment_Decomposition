@@ -14,9 +14,9 @@ my $NEjecutions=35;
 my @problems = ("UF1", "UF2", "UF3", "UF4", "UF5", "UF6", "UF7", "DTLZ1", "DTLZ2", "DTLZ3", "DTLZ4", "DTLZ5", "DTLZ6", "DTLZ7");
 my @NVariables = ("50", "100", "250", "500");
 my @Df = ("0.1", "0.2", "0.3", "0.4", "0.5");
-#my @Df = ("0.1", "0.2");#, "0.5");
+my @Df = ("0.4");#, "0.5");
 my $max_nfes = 25000000;
-my $Di = 0.1;
+my $Di = 0.4;
 
 
 foreach my $df(@Df) 
