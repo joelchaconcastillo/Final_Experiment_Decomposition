@@ -90,7 +90,7 @@ double CMOEAD::distance( vector<double> &a, vector<double> &b)
    for(int i = 0; i < a.size(); i++)
 	{
 	   double factor = (a[i]-b[i])/(vuppBound[i]-vlowBound[i]);
-	   if(fabs(factor)< 0.0001*ff) return 0.0;
+	   //if(fabs(factor)< 0.0001*ff) return 0.0;
 	   dist += factor*factor;
 	}
    return sqrt(dist);
@@ -147,8 +147,8 @@ void CMOEAD::replacement_phase()
 	   {
 	   	dist_near = min(dist_near, distance(Candidates[selected_pop[i]].x_var, Candidates[idxindividual].x_var));
 	   }
-	   if( dist_near < D)
-	   //if( dist_near <= D)
+	   //if( dist_near < D)
+	   if( dist_near <= D)
 	   {
 		  penalized.push_back(idxindividual);
 		  idxpenalized[idxindividual] = false;
@@ -156,8 +156,6 @@ void CMOEAD::replacement_phase()
 	   else
 	   {
 	        selected_pop.push_back(idxindividual);
-	//	if(D>=0.0)
-		//if(D>0.0)
 		idxpenalized[idxindividual] = false;
 		population[idxsubproblem].indiv = Candidates[idxindividual];
 		active_subproblem[idxsubproblem] = false;
