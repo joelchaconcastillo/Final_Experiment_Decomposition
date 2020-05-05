@@ -468,9 +468,6 @@ void CMOEAD::exec_emo(int run)
 	}
 		save_pos(filename1);
 		save_front(filename2);
-	population.clear();
-	idealpoint.clear();
-
 }
 
 

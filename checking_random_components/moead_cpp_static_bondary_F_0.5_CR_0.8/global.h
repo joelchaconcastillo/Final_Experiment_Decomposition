@@ -1,6 +1,6 @@
 #ifndef __GLOBAL_H_
 #define __GLOBAL_H_
-
+#define RAND_ONE ((double) rand() / (double)((unsigned) RAND_MAX + 1))
 #include <iostream>
 #include <fstream>
 #include <string>

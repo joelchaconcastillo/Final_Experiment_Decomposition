@@ -21,9 +21,9 @@
 #define NDIV (1+IMM1/NTAB)
 #define EPS 1.2e-7
 #define RNMX (1.0-EPS)
-double rnd_uni(long *idum);
+double rnd_uni2(long *idum);
 //the random generator in [0,1)
-double rnd_uni(long *idum)
+double rnd_uni2(long *idum)
 {
   long j;
   long k;

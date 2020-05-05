@@ -21,9 +21,9 @@
 #define NDIV (1+IMM1/NTAB)
 #define EPS 1.2e-7
 #define RNMX (1.0-EPS)
-double rnd_uni(long *idum);
+double rnd_uni2(long *idum);
 //the random generator in [0,1)
-double rnd_uni(long *idum)
+double rnd_uni2(long *idum)
 {
   long j;
   long k;
@@ -74,8 +74,8 @@ float box_muller(float m, float s)      /* normal random variate generator */
         else
         {
                 do {
-                        x1 = 2.0 * ((double)rand()/RAND_MAX) - 1.0;
-                        x2 = 2.0 * ((double)rand()/RAND_MAX) - 1.0;
+                        x1 = 2.0 * ((double)rand()/(double)RAND_MAX) - 1.0;
+                        x2 = 2.0 * ((double)rand()/(double)RAND_MAX) - 1.0;
                         w = x1 * x1 + x2 * x2;
                 } while ( w >= 1.0 );
 

@@ -40,7 +40,8 @@ CIndividual::~CIndividual()
 void CIndividual::rnd_init()
 {
     for(int n=0;n<nvar;n++)
-        x_var[n] = vlowBound[n] + rnd_uni(&rnd_uni_init)*(vuppBound[n] - vlowBound[n]);    
+        //x_var[n] = vlowBound[n] + rnd_uni(&rnd_uni_init)*(vuppBound[n] - vlowBound[n]);    
+        x_var[n] = vlowBound[n] + (RAND_ONE)*(vuppBound[n] - vlowBound[n]);    
 
 }
 

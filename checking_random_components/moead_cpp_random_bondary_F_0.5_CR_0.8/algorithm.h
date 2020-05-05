@@ -144,11 +144,13 @@ void CMOEAD::tour_selection(int depth, vector<int> &selected)
 
 	while(selected.size()<int(pops/5.0))
 	{
-	    int best_idd = int(rnd_uni(&rnd_uni_init)*candidate.size()), i2;
+	    //int best_idd = int(rnd_uni(&rnd_uni_init)*candidate.size()), i2;
+	    int best_idd = rand()%(int)candidate.size(), i2;
 		int best_sub = candidate[best_idd], s2;
 		for(int i=1; i<depth; i++)
 		{
-		    i2  = int(rnd_uni(&rnd_uni_init)*candidate.size());
+		    //i2  = int(rnd_uni(&rnd_uni_init)*candidate.size());
+		    i2  = rand()%(int)candidate.size();
 			s2  = candidate[i2];
 			if(utility[s2]>utility[best_sub])
 			{
@@ -248,11 +250,13 @@ void CMOEAD::mate_selection(vector<int> &list, int cid, int size, int type){
     while(list.size()<size)
 	{
 		if(type==1){
-		    id      = int(ss*rnd_uni(&rnd_uni_init));
+		    //id      = int(ss*rnd_uni(&rnd_uni_init));
+		    id      = rand() % ss;
 			parent  = population[cid].table[id];
 		}
 		else
-			parent  = int(population.size()*rnd_uni(&rnd_uni_init));
+			//parent  = int(population.size()*rnd_uni(&rnd_uni_init));
+			parent  = rand()% (int)population.size();
 
 		// avoid the repeated selection
 		bool flag = true;
@@ -285,7 +289,8 @@ void CMOEAD::evol_population()
 		int c_sub = order[sub];    // random order
 
 		int type;
-        double rnd = rnd_uni(&rnd_uni_init);
+        //double rnd = rnd_uni(&rnd_uni_init);
+        double rnd = RAND_ONE;
 
 		// mating selection based on probability
 		if(rnd<prob)     type = 1;   // from neighborhood
@@ -323,6 +328,7 @@ void CMOEAD::exec_emo(int run)
     char filename1[5024];
     char filename2[5024];
     seed = run;
+    srand(seed);
     seed = (seed + 23)%1377;
     rnd_uni_init = -(long)seed;
 

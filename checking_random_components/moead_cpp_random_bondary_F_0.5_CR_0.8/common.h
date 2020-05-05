@@ -90,7 +90,8 @@ void permutation(vector<int> &perm)
 	for(i=0; i<size; i++) index[i] = i;
 	for(i=0; i<size; i++)
 	{
-		j = int(size*rnd_uni(&rnd_uni_init));
+		//j = int(size*rnd_uni(&rnd_uni_init));
+		j = rand()%size;
 		while(1)
 		{
 			if(index[j]>=0)
