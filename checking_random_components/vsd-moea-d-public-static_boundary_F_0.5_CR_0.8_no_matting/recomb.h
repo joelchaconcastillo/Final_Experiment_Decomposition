@@ -24,6 +24,10 @@ void realmutation(CIndividual &ind, double rate)
             delta2 = (yu-y)/(yu-yl);
             rnd = rnd_uni(&rnd_uni_init);
             mut_pow = 1.0/(eta_m+1.0);
+
+	    if( y == yu) rnd = 0.5*rnd_uni(&rnd_uni_init);
+	    else if( y == yl) rnd = 0.5 + 0.5*rnd_uni(&rnd_uni_init);
+
             if (rnd <= 0.5)
             {
                 xy = 1.0-delta1;
