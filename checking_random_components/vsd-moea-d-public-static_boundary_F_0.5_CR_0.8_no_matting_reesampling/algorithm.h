@@ -548,7 +548,7 @@ void CMOEAD::evol_population()
 
 		child_pop[sub] = child;
 	}
-		replacement_phase();
+		replacement_phase2();
 
 }
 void CMOEAD::exec_emo(int run)
