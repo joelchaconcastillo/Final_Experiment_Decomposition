@@ -276,7 +276,11 @@ void CMOEAD::replacement_phase2()
  
 	for(int i = 0; i < active_subproblem.size(); i++)
 	{
-	   if(active_subproblem[i]) population[i].indiv.rnd_init();
+	   if(active_subproblem[i])
+	   {
+	      population[i].indiv.rnd_init();
+	      population[i].indiv.obj_eval();
+	   }
 	}
 
 return;
