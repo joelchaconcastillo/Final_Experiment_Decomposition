@@ -286,6 +286,12 @@ void CMOEAD::replacement_phase2()
 		int idx1 = rand()% (int) selected_pop.size();
 		int idx2 = rand()% (int) selected_pop.size();
 		real_sbx_xoverA(Candidates[selected_pop[idx1]], Candidates[selected_pop[idx2]], population[unset_subproblem[i]].indiv, population[unset_subproblem[i+1]].indiv);
+		population[unset_subproblem[i]].indiv.obj_eval();
+		population[unset_subproblem[i+1]].indiv.obj_eval();
+		// update the reference points and other solutions in the neighborhood or the whole population
+		update_reference(population[unset_subproblem[i]].indiv);
+		update_reference(population[unset_subproblem[i+1]].indiv);
+
 	   }
 	  return;
 	}
