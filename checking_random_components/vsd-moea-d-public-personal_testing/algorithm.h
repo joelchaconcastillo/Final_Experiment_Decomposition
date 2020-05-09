@@ -413,7 +413,7 @@ void CMOEAD::evol_population()
 		CIndividual child;
 
 		//double test = ((double)nfes*100.0)/max_nfes;
-		double rate2 =0.005;// box_muller(0.5,0.1);
+		double rate2 = box_muller(0.5,0.1);
 
 		bool flag = diff_evo_xoverA(population[sub].indiv,population[idx1].indiv,population[idx2].indiv, population[idx3].indiv, child, rate2);
 		if( flag ) cont++;
@@ -428,7 +428,7 @@ void CMOEAD::evol_population()
 		child_pop[sub] = child;
 	}
 		replacement_phase();
-        cout << cont <<endl;
+//        cout << cont <<endl;
 
 }
 void CMOEAD::exec_emo(int run)
@@ -459,12 +459,12 @@ void CMOEAD::exec_emo(int run)
 		update_parameterD();
 		evol_population();
 		accumulator += nfes - bef ;
-        //        if(accumulator > 0.1*(max_nfes)  )
-	//	{
-	//           accumulator -= 0.1*(max_nfes);
-	//	   save_pos(filename1);
-	//	   save_front(filename2);
-	//	}
+                if(accumulator > 0.1*(max_nfes)  )
+		{
+	           accumulator -= 0.1*(max_nfes);
+		   save_pos(filename1);
+		   save_front(filename2);
+		}
 		bef=nfes;
 	        nfes += pops;
 	}
