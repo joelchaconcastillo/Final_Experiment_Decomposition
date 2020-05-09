@@ -332,13 +332,14 @@ void real_sbx_hybrid(CIndividual &parent1, CIndividual &parent2, CIndividual &ch
     return;
 }
 
-bool diff_evo_xoverA(CIndividual &ind0, CIndividual &ind1, CIndividual &ind2, CIndividual &ind3, CIndividual &child, double rate)
+int diff_evo_xoverA(CIndividual &ind0, CIndividual &ind1, CIndividual &ind2, CIndividual &ind3, CIndividual &child, double rate)
 {
 	bool outb = false;
+        int cont = 0;
 	// Check Whether the cross-over to be performed
 	/*Loop over no of variables*/
 	int idx_rnd = int(rnd_uni(&rnd_uni_init)*nvar);
-    	double CR   =  (rnd_uni(&rnd_uni_init)<0.5)?0.2:1.0;
+    	double CR   =  0.8;// (rnd_uni(&rnd_uni_init)<0.5)?0.2:1.0;
 	for(int n=0;n<nvar;n++)
 	{
 	  double rnd = rnd_uni(&rnd_uni_init);
@@ -353,12 +354,14 @@ bool diff_evo_xoverA(CIndividual &ind0, CIndividual &ind1, CIndividual &ind2, CI
  	       //child.x_var[n] = vlowBound[n] + rnd*(vuppBound[n] - vlowBound[n]);
  	       // child.x_var[n] = ind0.x_var[n];// vlowBound[n] + rnd*(ind0.x_var[n] - vlowBound[n]);
  	        child.x_var[n] = vlowBound[n] + rnd*(ind0.x_var[n] - vlowBound[n]);
+	    cont++;
 	  }
 	  if(child.x_var[n]>vuppBound[n]){ 
 	          double rnd = rnd_uni(&rnd_uni_init);
 	          //double rnd =-0.1+1.2*rnd_uni(&rnd_uni_init);
-	        //child.x_var[n] = ind0.x_var[n];//vuppBound[n] - rnd*(vuppBound[n] - ind0.x_var[n]);
+	        //child.x_var[n] = vuppBound[n] - rnd*(vuppBound[n] - vlowBound[n]);
 	        child.x_var[n] = vuppBound[n] - rnd*(vuppBound[n] - ind0.x_var[n]);
+	    cont++;
 	  }
 	  if(child.x_var[n]<vlowBound[n])
 	  {
@@ -371,7 +374,7 @@ bool diff_evo_xoverA(CIndividual &ind0, CIndividual &ind1, CIndividual &ind2, CI
 	   outb =true;
 	  }
 	}
-  return outb;
+  return cont;
 }
 
 //diff_evo_xoverB

@@ -415,8 +415,8 @@ void CMOEAD::evol_population()
 		//double test = ((double)nfes*100.0)/max_nfes;
 		double rate2 = box_muller(0.5,0.1);
 
-		bool flag = diff_evo_xoverA(population[sub].indiv,population[idx1].indiv,population[idx2].indiv, population[idx3].indiv, child, rate2);
-		if( flag ) cont++;
+		cont += diff_evo_xoverA(population[sub].indiv,population[idx1].indiv,population[idx2].indiv, population[idx3].indiv, child, rate2);
+		//if( flag ) cont++;
 	//	diff_evo_xoverB(population[sub].indiv,population[idx1].indiv,population[idx2].indiv, child, rate2);
 
 		// apply polynomial mutation
@@ -428,7 +428,7 @@ void CMOEAD::evol_population()
 		child_pop[sub] = child;
 	}
 		replacement_phase();
-//        cout << cont <<endl;
+        cout << (double)cont/(double)population.size() <<endl;
 
 }
 void CMOEAD::exec_emo(int run)
