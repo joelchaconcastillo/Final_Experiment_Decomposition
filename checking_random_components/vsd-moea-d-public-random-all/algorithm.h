@@ -147,8 +147,7 @@ void CMOEAD::replacement_phase()
 	   {
 	   	dist_near = min(dist_near, distance(Candidates[selected_pop[i]].x_var, Candidates[idxindividual].x_var));
 	   }
-	   //if( dist_near < D)
-	   if( dist_near <= D)
+	   if( dist_near < D)
 	   {
 		  penalized.push_back(idxindividual);
 		  idxpenalized[idxindividual] = false;
@@ -156,6 +155,7 @@ void CMOEAD::replacement_phase()
 	   else
 	   {
 	        selected_pop.push_back(idxindividual);
+	 	if( D > 0)
 		idxpenalized[idxindividual] = false;
 		population[idxsubproblem].indiv = Candidates[idxindividual];
 		active_subproblem[idxsubproblem] = false;
