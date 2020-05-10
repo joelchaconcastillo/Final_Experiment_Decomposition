@@ -392,17 +392,19 @@ void CMOEAD::evol_population()
 
 
 		int idx1 = int(population.size()*rnd_uni(&rnd_uni_init));
-	        while( idx1 == sub)
-		{
-		   idx1 = int(population.size()*rnd_uni(&rnd_uni_init));
-		}
+//	        while( idx1 == sub)
+//		{
+//		   idx1 = int(population.size()*rnd_uni(&rnd_uni_init));
+//		}
 	      int idx2 = int(population.size()*rnd_uni(&rnd_uni_init));
-	        while( idx2 == sub || idx2 == idx1)
+	        //while( idx2 == sub || idx2 == idx1)
+	        while( idx2 == idx1)
 		{
 		   idx2 = int(population.size()*rnd_uni(&rnd_uni_init));
 		}
 	      int idx3 = int(population.size()*rnd_uni(&rnd_uni_init));
-		while( idx3 == sub || idx3 == idx1 ||  idx3==idx2)
+		//while( idx3 == sub || idx3 == idx1 ||  idx3==idx2)
+		while( idx3 == idx1 ||  idx3==idx2)
 		{
 		   idx3 = int(population.size()*rnd_uni(&rnd_uni_init));
 		}
