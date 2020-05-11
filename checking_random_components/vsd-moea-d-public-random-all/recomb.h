@@ -344,17 +344,13 @@ void diff_evo_xoverA(CIndividual &ind0, CIndividual &ind1, CIndividual &ind2, CI
 		  child.x_var[n] = ind0.x_var[n];
 
 	if(child.x_var[n]<vlowBound[n]){
-	          double rnd = rnd_uni(&rnd_uni_init);
-//	          double rnd =-0.1+1.2*rnd_uni(&rnd_uni_init);
- 	       //child.x_var[n] = vlowBound[n] + rnd*(vuppBound[n] - vlowBound[n]);
- 	        child.x_var[n] = ind0.x_var[n];// vlowBound[n] + rnd*(ind0.x_var[n] - vlowBound[n]);
- 	       // child.x_var[n] = vlowBound[n] + rnd*(ind0.x_var[n] - vlowBound[n]);
+//	          double rnd = rnd_uni(&rnd_uni_init);
+ 	      //  child.x_var[n] = ind0.x_var[n];// vlowBound[n] + rnd*(ind0.x_var[n] - vlowBound[n]);
+ 	       child.x_var[n] = ind0.x_var[n];//vlowBound[n] + rnd*(ind0.x_var[n] - vlowBound[n]);
 	  }
 	  if(child.x_var[n]>vuppBound[n]){ 
-	          double rnd = rnd_uni(&rnd_uni_init);
-	          //double rnd =-0.1+1.2*rnd_uni(&rnd_uni_init);
+//	          double rnd = rnd_uni(&rnd_uni_init);
 	        child.x_var[n] = ind0.x_var[n];//vuppBound[n] - rnd*(vuppBound[n] - ind0.x_var[n]);
-	        //child.x_var[n] = vuppBound[n] - rnd*(vuppBound[n] - ind0.x_var[n]);
 	  }
 	  if(child.x_var[n]<vlowBound[n]) child.x_var[n] = vlowBound[n];
 	  if(child.x_var[n]>vuppBound[n]) child.x_var[n] = vuppBound[n];

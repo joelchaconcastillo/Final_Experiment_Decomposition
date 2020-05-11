@@ -68,7 +68,7 @@ void CMOEAD::update_parameterD()
         double TEnd = max_nfes;
 
         D = Di - Di * (TElapsed / (TEnd*Df));
-	D = max(0.0, D);
+//	D = max(0.0, D);
 }
 double CMOEAD::distance_obj( vector<double> &a, vector<double> &b)
 {
@@ -378,39 +378,40 @@ void CMOEAD::evol_population()
     for(int sub=0; sub<pops; sub++)
 	{
 
- 		int type;
+ 		int type=2;
         	double rnd = rnd_uni(&rnd_uni_init);
 
                 // mating selection based on probability
 //                if(rnd<0.9)     type = 1;   // from neighborhood
 //                else             type = 2;   // from population
-//                // select the indexes of mating parents
-//                vector<int> plist;
-//                mate_selection(plist, sub, 3, type);  // neighborhood selection
+//
+                // select the indexes of mating parents
+                vector<int> plist;
+                mate_selection(plist, sub, 3, type);  // neighborhood selection
                 //mate_selection_decision(plist, sub, type);  // neighborhood selection
 
 
 
-		int idx1 = int(population.size()*rnd_uni(&rnd_uni_init));
-//	        while( idx1 == sub)
-//		{
-//		   idx1 = int(population.size()*rnd_uni(&rnd_uni_init));
-//		}
-	      int idx2 = int(population.size()*rnd_uni(&rnd_uni_init));
-	        //while( idx2 == sub || idx2 == idx1)
-	        while( idx2 == idx1)
-		{
-		   idx2 = int(population.size()*rnd_uni(&rnd_uni_init));
-		}
-	      int idx3 = int(population.size()*rnd_uni(&rnd_uni_init));
-		//while( idx3 == sub || idx3 == idx1 ||  idx3==idx2)
-		while( idx3 == idx1 ||  idx3==idx2)
-		{
-		   idx3 = int(population.size()*rnd_uni(&rnd_uni_init));
-		}
-	//	idx1 = plist[0];
-	//	idx2 = plist[1];
-	//	idx3 = plist[2];
+//////		int idx1 = int(population.size()*rnd_uni(&rnd_uni_init));
+////////	        while( idx1 == sub)
+////////		{
+////////		   idx1 = int(population.size()*rnd_uni(&rnd_uni_init));
+////////		}
+//////	      int idx2 = int(population.size()*rnd_uni(&rnd_uni_init));
+//////	        //while( idx2 == sub || idx2 == idx1)
+//////	        while( idx2 == idx1)
+//////		{
+//////		   idx2 = int(population.size()*rnd_uni(&rnd_uni_init));
+//////		}
+//////	      int idx3 = int(population.size()*rnd_uni(&rnd_uni_init));
+//////		//while( idx3 == sub || idx3 == idx1 ||  idx3==idx2)
+//////		while( idx3 == idx1 ||  idx3==idx2)
+//////		{
+//////		   idx3 = int(population.size()*rnd_uni(&rnd_uni_init));
+//////		}
+		int idx1 = plist[0];
+		int idx2 = plist[1];
+		int idx3 = plist[2];
 
 		// produce a child solution
 		CIndividual child;
