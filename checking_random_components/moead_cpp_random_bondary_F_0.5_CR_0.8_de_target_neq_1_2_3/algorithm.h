@@ -262,7 +262,7 @@ void CMOEAD::mate_selection(vector<int> &list, int cid, int size, int type){
 		bool flag = true;
 		for(int i=0; i<list.size(); i++)
 		{
-			if(list[i]==parent || list[i] == cid) // parent is in the list
+			if(list[i]==parent || parent == cid) // parent is in the list
 			{
 				flag = false;
 				break;
