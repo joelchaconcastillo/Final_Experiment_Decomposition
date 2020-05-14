@@ -82,14 +82,19 @@ double CMOEAD::distance_obj( vector<double> &a, vector<double> &b)
 }
 double CMOEAD::distance( vector<double> &a, vector<double> &b)
 {
-	double TElapsed = nfes;
-        double TEnd = max_nfes;
-
+	double ratio_f = (double)nfes/(double)max_nfes;
+	ratio_f/=Df;
+       
 	double dist = 0 ;
-        double ff = max(1.0 -  (TElapsed / (TEnd*Df)),-0.01);
+      //  double ff = max(1.0 -  (ratio_f/Df), -1);
    for(int i = 0; i < a.size(); i++)
 	{
 	   double factor = (a[i]-b[i])/(vuppBound[i]-vlowBound[i]);
+	if( ratio_f > 0)
+	{
+	   double v = pow(10.0,(int)10*ratio_f);
+	   factor = (double)((int)(factor*v))/v;
+	}
 	   //if(fabs(factor)< 0.0001*ff) return 0.0;
 	   dist += factor*factor;
 	}
@@ -389,25 +394,25 @@ void CMOEAD::evol_population()
 
 
 
-		int idx1 = int(population.size()*rnd_uni(&rnd_uni_init));
-		int idx2 = int(population.size()*rnd_uni(&rnd_uni_init));
-		int idx3 = int(population.size()*rnd_uni(&rnd_uni_init));
-
-	        while( idx1 == sub)
-		{
-		   idx1 = int(population.size()*rnd_uni(&rnd_uni_init));
-		}
-	        while( idx2 == sub || idx2 == idx1)
-		{
-		   idx2 = int(population.size()*rnd_uni(&rnd_uni_init));
-		}
-		while( idx3 == sub || idx3 == idx1 ||  idx3==idx2)
-		{
-		   idx3 = int(population.size()*rnd_uni(&rnd_uni_init));
-		}
-		idx1 = plist[0];
-		idx2 = plist[1];
-		idx3 = plist[2];
+//		int idx1 = int(population.size()*rnd_uni(&rnd_uni_init));
+//		int idx2 = int(population.size()*rnd_uni(&rnd_uni_init));
+//		int idx3 = int(population.size()*rnd_uni(&rnd_uni_init));
+//
+//	        while( idx1 == sub)
+//		{
+//		   idx1 = int(population.size()*rnd_uni(&rnd_uni_init));
+//		}
+//	        while( idx2 == sub || idx2 == idx1)
+//		{
+//		   idx2 = int(population.size()*rnd_uni(&rnd_uni_init));
+//		}
+//		while( idx3 == sub || idx3 == idx1 ||  idx3==idx2)
+//		{
+//		   idx3 = int(population.size()*rnd_uni(&rnd_uni_init));
+//		}
+	int 	idx1 = plist[0];
+	int 	idx2 = plist[1];
+	int 	idx3 = plist[2];
 
 		// produce a child solution
 		CIndividual child;
@@ -415,8 +420,9 @@ void CMOEAD::evol_population()
 		//double test = ((double)nfes*100.0)/max_nfes;
 		double rate2 = box_muller(0.5,0.1);
 
-		cont += diff_evo_xoverA(population[sub].indiv,population[idx1].indiv,population[idx2].indiv, population[idx3].indiv, child, rate2);
+		int ccont = diff_evo_xoverA(population[sub].indiv,population[idx1].indiv,population[idx2].indiv, population[idx3].indiv, child, rate2);
 		//if( flag ) cont++;
+		//cout <<ccont<<endl;
 	//	diff_evo_xoverB(population[sub].indiv,population[idx1].indiv,population[idx2].indiv, child, rate2);
 
 		// apply polynomial mutation
@@ -428,7 +434,6 @@ void CMOEAD::evol_population()
 		child_pop[sub] = child;
 	}
 		replacement_phase();
-        cout << (double)cont/(double)population.size() <<endl;
 
 }
 void CMOEAD::exec_emo(int run)
@@ -459,9 +464,9 @@ void CMOEAD::exec_emo(int run)
 		update_parameterD();
 		evol_population();
 		accumulator += nfes - bef ;
-                if(accumulator > 0.1*(max_nfes)  )
+                if(accumulator > 0.01*(max_nfes)  )
 		{
-	           accumulator -= 0.1*(max_nfes);
+	           accumulator -= 0.01*(max_nfes);
 		   save_pos(filename1);
 		   save_front(filename2);
 		}
