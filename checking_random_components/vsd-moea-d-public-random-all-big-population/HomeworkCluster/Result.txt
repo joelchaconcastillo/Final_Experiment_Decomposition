@@ -1034,3 +1034,1907 @@ Data:  ::	 0.5
  
 Data:  ::	 0.5
  
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
+Data:  ::	 0.5
+ 
